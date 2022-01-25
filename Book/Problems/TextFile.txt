@@ -1,0 +1,181 @@
+﻿Each package is licensed to you by its owner. NuGet is not responsible for, nor does it grant any licenses to, third-party packages. Some packages may include dependencies which are governed by additional licenses. Follow the package source (feed) URL to determine any dependencies.
+
+Package Manager Console Host Version 5.11.1.5
+
+Type 'get-help NuGet' to see all available NuGet commands.
+
+PM> Add-Migration InitialCreate
+Build started...
+Build succeeded.
+To undo this action, use Remove-Migration.
+PM> Update-Database -Verbose
+Using project 'Book'.
+Using startup project 'Book'.
+Build started...
+Build succeeded.
+C:\Program Files\dotnet\dotnet.exe exec --depsfile C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.deps.json --additionalprobingpath C:\Users\Admin\.nuget\packages --additionalprobingpath "C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages" --additionalprobingpath "C:\Program Files (x86)\Microsoft\Xamarin\NuGet" --runtimeconfig C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json C:\Users\Admin\.nuget\packages\microsoft.entityframeworkcore.tools\3.1.20\tools\netcoreapp2.0\any\ef.dll database update --verbose --no-color --prefix-output --assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.dll --startup-assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.dll --project-dir C:\Users\Admin\Desktop\HW\Book\ --language C# --working-dir C:\Users\Admin\Desktop\HW\Book --root-namespace Book
+Using assembly 'Book'.
+Using startup assembly 'Book'.
+Using application base 'C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1'.
+Using working directory 'C:\Users\Admin\Desktop\HW\Book'.
+Using root namespace 'Book'.
+Using project directory 'C:\Users\Admin\Desktop\HW\Book\'.
+Finding DbContext classes...
+Finding IDesignTimeDbContextFactory implementations...
+Finding application service provider...
+Finding Microsoft.Extensions.Hosting service provider...
+Using environment 'Development'.
+Using application service provider from Microsoft.Extensions.Hosting.
+Found DbContext 'ApplicationDbContext'.
+Finding DbContext classes in the project...
+Using context 'ApplicationDbContext'.
+Finding design-time services for provider 'Microsoft.EntityFrameworkCore.SqlServer'...
+Using design-time services from provider 'Microsoft.EntityFrameworkCore.SqlServer'.
+Finding design-time services referenced by assembly 'Book'.
+No referenced design-time services were found.
+Finding IDesignTimeServices implementations in assembly 'Book'...
+No design-time services were found.
+fail: Microsoft.EntityFrameworkCore.Database.Command[20102]
+      Failed executing DbCommand (430ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      CREATE TABLE [Books] (
+          [Id] int NOT NULL IDENTITY,
+          [BookName] nvarchar(100) NOT NULL,
+          [Description] nvarchar(100) NOT NULL,
+          [Edition] int NOT NULL,
+          [PublishingDate] datetime2 NOT NULL,
+          [PublishingTime] datetime2 NOT NULL,
+          [Venue] nvarchar(255) NOT NULL,
+          [BookPicture] nvarchar(max) NOT NULL,
+          CONSTRAINT [PK_Books] PRIMARY KEY ([Id])
+      );
+Failed executing DbCommand (430ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Books] (
+    [Id] int NOT NULL IDENTITY,
+    [BookName] nvarchar(100) NOT NULL,
+    [Description] nvarchar(100) NOT NULL,
+    [Edition] int NOT NULL,
+    [PublishingDate] datetime2 NOT NULL,
+    [PublishingTime] datetime2 NOT NULL,
+    [Venue] nvarchar(255) NOT NULL,
+    [BookPicture] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Books] PRIMARY KEY ([Id])
+);
+Microsoft.Data.SqlClient.SqlException (0x80131904): There is already an object named 'Books' in the database.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQuery(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.MigrationCommand.ExecuteNonQuery(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQuery(IEnumerable`1 migrationCommands, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.Design.Internal.MigrationsOperations.UpdateDatabase(String targetMigration, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabaseImpl(String targetMigration, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabase.<>c__DisplayClass0_0.<.ctor>b__0()
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.OperationBase.Execute(Action action)
+ClientConnectionId:0f8630ca-8c78-44de-a00f-2ba6ae9c250f
+Error Number:2714,State:6,Class:16
+There is already an object named 'Books' in the database.
+PM> Update-Database -Verbose
+Using project 'Book_Jashim'.
+Using startup project 'Book_Jashim'.
+Build started...
+Build succeeded.
+C:\Program Files\dotnet\dotnet.exe exec --depsfile C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.deps.json --additionalprobingpath C:\Users\Admin\.nuget\packages --additionalprobingpath "C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages" --additionalprobingpath "C:\Program Files (x86)\Microsoft\Xamarin\NuGet" --runtimeconfig C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.runtimeconfig.json C:\Users\Admin\.nuget\packages\microsoft.entityframeworkcore.tools\3.1.20\tools\netcoreapp2.0\any\ef.dll database update --verbose --no-color --prefix-output --assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.dll --startup-assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.dll --project-dir C:\Users\Admin\Desktop\HW\Book\ --language C# --working-dir C:\Users\Admin\Desktop\HW\Book --root-namespace Book_Jashim
+Using assembly 'Book_Jashim'.
+Using startup assembly 'Book_Jashim'.
+Using application base 'C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1'.
+Using working directory 'C:\Users\Admin\Desktop\HW\Book'.
+Using root namespace 'Book_Jashim'.
+Using project directory 'C:\Users\Admin\Desktop\HW\Book\'.
+Finding DbContext classes...
+Finding IDesignTimeDbContextFactory implementations...
+Finding application service provider...
+Finding Microsoft.Extensions.Hosting service provider...
+Using environment 'Development'.
+Using application service provider from Microsoft.Extensions.Hosting.
+Found DbContext 'ApplicationDbContext'.
+Finding DbContext classes in the project...
+Using context 'ApplicationDbContext'.
+Finding design-time services for provider 'Microsoft.EntityFrameworkCore.SqlServer'...
+Using design-time services from provider 'Microsoft.EntityFrameworkCore.SqlServer'.
+Finding design-time services referenced by assembly 'Book_Jashim'.
+No referenced design-time services were found.
+Finding IDesignTimeServices implementations in assembly 'Book_Jashim'...
+No design-time services were found.
+fail: Microsoft.EntityFrameworkCore.Database.Command[20102]
+      Failed executing DbCommand (61ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      CREATE TABLE [Books] (
+          [Id] int NOT NULL IDENTITY,
+          [BookName] nvarchar(100) NOT NULL,
+          [Description] nvarchar(100) NOT NULL,
+          [Edition] int NOT NULL,
+          [PublishingDate] datetime2 NOT NULL,
+          [PublishingTime] datetime2 NOT NULL,
+          [Venue] nvarchar(255) NOT NULL,
+          [BookPicture] nvarchar(max) NOT NULL,
+          CONSTRAINT [PK_Books] PRIMARY KEY ([Id])
+      );
+Failed executing DbCommand (61ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Books] (
+    [Id] int NOT NULL IDENTITY,
+    [BookName] nvarchar(100) NOT NULL,
+    [Description] nvarchar(100) NOT NULL,
+    [Edition] int NOT NULL,
+    [PublishingDate] datetime2 NOT NULL,
+    [PublishingTime] datetime2 NOT NULL,
+    [Venue] nvarchar(255) NOT NULL,
+    [BookPicture] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Books] PRIMARY KEY ([Id])
+);
+Microsoft.Data.SqlClient.SqlException (0x80131904): There is already an object named 'Books' in the database.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQuery(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.MigrationCommand.ExecuteNonQuery(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQuery(IEnumerable`1 migrationCommands, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.Design.Internal.MigrationsOperations.UpdateDatabase(String targetMigration, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabaseImpl(String targetMigration, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabase.<>c__DisplayClass0_0.<.ctor>b__0()
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.OperationBase.Execute(Action action)
+ClientConnectionId:3c73ef3b-7b82-4d6c-8daf-8c9251b0f524
+Error Number:2714,State:6,Class:16
+There is already an object named 'Books' in the database.
+PM> Update-Database -Verbose
+Using project 'Book_Jashim'.
+Using startup project 'Book_Jashim'.
+Build started...
+Build succeeded.
+C:\Program Files\dotnet\dotnet.exe exec --depsfile C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.deps.json --additionalprobingpath C:\Users\Admin\.nuget\packages --additionalprobingpath "C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages" --additionalprobingpath "C:\Program Files (x86)\Microsoft\Xamarin\NuGet" --runtimeconfig C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.runtimeconfig.json C:\Users\Admin\.nuget\packages\microsoft.entityframeworkcore.tools\3.1.20\tools\netcoreapp2.0\any\ef.dll database update --verbose --no-color --prefix-output --assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.dll --startup-assembly C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book_Jashim.dll --project-dir C:\Users\Admin\Desktop\HW\Book\ --language C# --working-dir C:\Users\Admin\Desktop\HW\Book --root-namespace Book_Jashim
+Using assembly 'Book_Jashim'.
+Using startup assembly 'Book_Jashim'.
+Using application base 'C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1'.
+Using working directory 'C:\Users\Admin\Desktop\HW\Book'.
+Using root namespace 'Book_Jashim'.
+Using project directory 'C:\Users\Admin\Desktop\HW\Book\'.
+Finding DbContext classes...
+Finding IDesignTimeDbContextFactory implementations...
+Finding application service provider...
+Finding Microsoft.Extensions.Hosting service provider...
+Using environment 'Development'.
+Using application service provider from Microsoft.Extensions.Hosting.
+Found DbContext 'ApplicationDbContext'.
+Finding DbContext classes in the project...
+Using context 'ApplicationDbContext'.
+Finding design-time services for provider 'Microsoft.EntityFrameworkCore.SqlServer'...
+Using design-time services from provider 'Microsoft.EntityFrameworkCore.SqlServer'.
+Finding design-time services referenced by assembly 'Book_Jashim'.
+No referenced design-time services were found.
+Finding IDesignTimeServices implementations in assembly 'Book_Jashim'...
+No design-time services were found.
+Done.
+PM> 

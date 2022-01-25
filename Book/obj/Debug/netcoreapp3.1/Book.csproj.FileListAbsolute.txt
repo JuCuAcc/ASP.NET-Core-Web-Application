@@ -1,0 +1,576 @@
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.StaticWebAssets.xml
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.Views.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Book.Views.pdb
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.xml
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\scopedcss\bundle\Book.styles.css
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.input.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.output.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.Views.pdb
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.csproj.CopyComplete
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\HW\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.StaticWebAssets.xml
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.Views.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Book.Views.pdb
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20211125\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.xml
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\scopedcss\bundle\Book.styles.css
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.input.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.output.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.Views.pdb
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.csproj.CopyComplete
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\Admin\Desktop\20211125\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.StaticWebAssets.xml
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.exe
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.pdb
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.Views.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Book.Views.pdb
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\CORE PROJECT\Book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.MvcApplicationPartsAssemblyInfo.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.RazorAssemblyInfo.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.Manifest.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\staticwebassets\Book.StaticWebAssets.xml
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\scopedcss\bundle\Book.styles.css
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.input.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.TagHelpers.output.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.RazorCoreGenerate.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.RazorTargetAssemblyInfo.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.Views.pdb
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.csproj.CopyComplete
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.dll
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.pdb
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\BooksImage\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\BooksImage\Create.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\BooksImage\Edit.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\BooksImage\Delete.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\BooksImage\Details.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Librarian\Create.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Librarian\Delete.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Librarian\Details.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Librarian\Edit.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Librarian\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\Create.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\Delete.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\Details.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\Index.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\_ViewAll.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Fine\AddOrEdit.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Experience\Create.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Experience\Delete.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Experience\Details.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Experience\Edit.cshtml.g.cs
+G:\CORE PROJECT\Book\obj\Debug\netcoreapp3.1\Razor\Views\Experience\Index.cshtml.g.cs

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Book.Models.Experience>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Experience</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Librarian)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstitutionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Designation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearsWorked)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Librarian.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstitutionName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Designation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearsWorked)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ExperienceId" class="btn btn-primary">Edit</a> 
+                <a asp-action="Details" asp-route-id="@item.ExperienceId" class="btn btn-secondary">Details</a> 
+                <a asp-action="Delete" asp-route-id="@item.ExperienceId" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
